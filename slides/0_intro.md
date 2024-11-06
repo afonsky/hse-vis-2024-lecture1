@@ -320,11 +320,6 @@ zoom: 0.84
 -->
 
 ---
-layout: iframe
-url: https://artsandculture.google.com/project/khipus?hl=en
----
-
----
 
 # Зачем использовать внешнюю память?
 
