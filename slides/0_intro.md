@@ -649,7 +649,7 @@ $\footnotesize ~~~r = 0.32$
 
 # Почему так много видов визуализаций?
 
-<div class="grid grid-cols-[1fr_1fr]">
+<div class="grid grid-cols-[2fr_3fr] gap-10">
 <div>
 <v-plotly style="width: 400px !important; height: 190px !important"
 :data="[{
